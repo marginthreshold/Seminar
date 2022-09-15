@@ -16,8 +16,7 @@ if (number2==square2)
 }
 else
 {
- WriteLine("нет");   
+ WriteLine("нет!");   
 }
-
 
 
