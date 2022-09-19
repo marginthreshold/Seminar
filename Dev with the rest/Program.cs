@@ -8,7 +8,14 @@ Clear();
 int x = int.Parse(ReadLine()!);
 int y = int.Parse(ReadLine()!);
 
+if (x<y)
+{
+    int temp =x;
+    x=y;
+    y=temp;
+}
 
+if(y==0) return;
 if (x%y==0) WriteLine("кратно");
 if (x%y!=0) WriteLine($"не кратно, остаток {x%y}");
 
