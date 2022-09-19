@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\bin\Debug\net6.0\Double Div.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\bin\Debug\net6.0\Double Div.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\bin\Debug\net6.0\Double Div.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\bin\Debug\net6.0\Double Div.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\bin\Debug\net6.0\Double Div.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\refint\Double Div.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\Double Div.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Double Div\obj\Debug\net6.0\ref\Double Div.dll
