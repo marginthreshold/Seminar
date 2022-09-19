@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\bin\Debug\net6.0\Two numbers Sqare or not.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\bin\Debug\net6.0\Two numbers Sqare or not.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\bin\Debug\net6.0\Two numbers Sqare or not.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\bin\Debug\net6.0\Two numbers Sqare or not.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\bin\Debug\net6.0\Two numbers Sqare or not.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\refint\Two numbers Sqare or not.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\Two numbers Sqare or not.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Two numbers Sqare or not\obj\Debug\net6.0\ref\Two numbers Sqare or not.dll
