@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\bin\Debug\net6.0\Dev with the rest.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\bin\Debug\net6.0\Dev with the rest.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\bin\Debug\net6.0\Dev with the rest.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\bin\Debug\net6.0\Dev with the rest.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\bin\Debug\net6.0\Dev with the rest.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\refint\Dev with the rest.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\Dev with the rest.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Dev with the rest\obj\Debug\net6.0\ref\Dev with the rest.dll
