@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\bin\Debug\net6.0\Qarter X and Y.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\bin\Debug\net6.0\Qarter X and Y.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\bin\Debug\net6.0\Qarter X and Y.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\bin\Debug\net6.0\Qarter X and Y.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\bin\Debug\net6.0\Qarter X and Y.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\refint\Qarter X and Y.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\Qarter X and Y.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Seminar\Qarter X and Y\obj\Debug\net6.0\ref\Qarter X and Y.dll
